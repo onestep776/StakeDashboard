@@ -1,37 +1,21 @@
-# Stake Dashboard
+# TzrDashBoard Web Project
 
-MVP version of Dashboard
+1. npm install on root folder
 
-## Available Node version
+2. cd client
 
-### `node 16.20.0`
+3. npm install
 
-## Available Scripts
+4. cd ..
 
-In the project directory, you can run:
+5. npm run dev
 
-### `yarn install`
-### `yarn start`
+# How to contribute
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. create new branch
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. create Pull Request
 
-### `yarn test`
+# Node version
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
+16.20.0
